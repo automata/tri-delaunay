@@ -3,6 +3,8 @@ tri-delaunay
 
 Generative paintings by Delaunay triangulation.
 
+![Frans Hals](http://farm8.staticflickr.com/7416/9297795694_55253dc0a3_b.jpg)
+
 Presented at SIFISC 3 (2013) at IFSC/USP as:
 
     Pinturas generativas por tesselação de Delaunay. Estudo #4
@@ -15,7 +17,7 @@ Presented at SIFISC 3 (2013) at IFSC/USP as:
     arestas. A cor de cada triângulo da malha equivale à cor média do segmento da
     pintura original.
 
-All generated paintings:
+All generated paintings ([the whole set](http://www.flickr.com/photos/auto_mata/sets/72157634660390040/)):
 
 <img src="http://farm8.staticflickr.com/7335/12531761513_523f640d06_b_d.jpg" />
 
@@ -25,6 +27,11 @@ All generated paintings:
 
 <img src="http://farm3.staticflickr.com/2824/12531754883_e0e4c9793d_b_d.jpg" />
 
+Details of the exposition:
+
+![Detail of the exposition](http://farm8.staticflickr.com/7372/12848882394_d90d52625a_o.jpg)
+![Detail of the exposition](http://farm8.staticflickr.com/7326/12848533133_6882bebd1a_o.jpg)
+![Detail of the exposition](http://farm3.staticflickr.com/2871/12848880354_dd54c844eb_b.jpg)
 
 
 # Installation
